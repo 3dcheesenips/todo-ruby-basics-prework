@@ -3,7 +3,7 @@ def division(num1, num2)
  return sum
 end
 
-def assign_variable(value, name)
+def assign_variable(name,value)
   value = name
 end
 
@@ -24,7 +24,6 @@ def last_evaluated_value
 return "expert"
 end
 
-def pizza_party(arg)
-return "cheese"
+def pizza_party(arg="cheese")
 return arg
 end
