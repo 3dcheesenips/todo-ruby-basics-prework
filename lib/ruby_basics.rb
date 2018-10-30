@@ -3,7 +3,7 @@ def division(num1, num2)
  return sum
 end
 
-def assign_variable(value,name)
+def assign_variable(value,name, name2)
   return name
 end
 
