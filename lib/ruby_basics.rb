@@ -3,8 +3,9 @@ def division(num1, num2)
  return sum
 end
 
-def assign_variable(value,name, name2)
+def assign_variable(value,name)
   return name
+  return value
 end
 
 def argue(arg)
